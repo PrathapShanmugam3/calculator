@@ -1,7 +1,7 @@
 # CleanCalculator
 
 ## Hosted url
-[https://pravinmane1.github.io/clean-calculator](https://pravinmane1.github.io/clean-calculator)
+[https://calculator-nu-gilt.vercel.app/](https://calculator-nu-gilt.vercel.app/)
 
 ## Screenshot
 
